@@ -1,0 +1,10 @@
+Configuration used for this Measurement:
+Span: 100000000
+Center Frequency: 5100000000
+Power: 19
+Measurement Points: 1500
+Location: C:\Users\DE6AK563\Desktop\Messungen Graben\2021-02-05\Lager\5_1_GHz\8_m
+Power on Port A: -55,64648
+Power on Port B: -43,594
+Power on Port C: -76,9159
+Power on Port D: -55,21999

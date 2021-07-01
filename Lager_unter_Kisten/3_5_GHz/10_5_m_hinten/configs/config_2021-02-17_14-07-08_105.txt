@@ -1,0 +1,10 @@
+Configuration used for this Measurement:
+Span: 100000000
+Center Frequency: 3850000000
+Power: 19
+Measurement Points: 1500
+Location: C:\Users\DE6AK563\Desktop\Messungen Graben\2021-02-17\Unter Kisten\10_5_m\hinten\3_85_GHz
+Power on Port A: -49,86595
+Power on Port B: -43,74839
+Power on Port C: -49,75857
+Power on Port D: -58,29161

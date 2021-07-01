@@ -1,0 +1,10 @@
+Configuration used for this Measurement:
+Span: 100000000
+Center Frequency: 3750000000
+Power: 19
+Measurement Points: 1000
+Location: C:\Users\DE6AK563\Desktop\Messungen Graben\2021-02-04\Lager\3_75GHz\2m_1_5m_Abstand_Antennen
+Power on Port A: -43,92215
+Power on Port B: -41,74344
+Power on Port C: -46,78988
+Power on Port D: -50,97126

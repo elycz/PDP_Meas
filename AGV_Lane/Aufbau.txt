@@ -1,0 +1,6 @@
+Referenz 80 cm weg
+Höhe Tx und Referenz 2,3m
+Ordernerstruktur: \Entfernung von Tx an Boden\Entfernung zwischen Rx Antennen\Frequenz
+Alle Rx Rundstrahler
+Tx Rund und Ref Siemens
+Ref Kabel ist 1x/ab 14m 2x Baumgartner + diverse Verlängerungen
